@@ -24,10 +24,10 @@
         "branch": "jellybean-mr1"
     },
     {
-        "project": "wizard0f0s",
+        "project": "CyanogenMod",
         "repository": "android_kernel_samsung_smdk4412",
         "target_path": "kernel/samsung/smdk4412",
-        "branch": "jellybean-mr1"
+        "branch": "cm-10.1"
     },
     {
         "project": "wizard0f0s",
