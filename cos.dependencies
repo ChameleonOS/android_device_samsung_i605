@@ -20,7 +20,7 @@
     {
         "project": "wizard0f0s",
         "repository": "android_device_samsung_t0lte",
-        "target_path": "device/samsung/t0lte"
+        "target_path": "device/samsung/t0lte",
         "branch": "jellybean-mr1"
     },
     {
