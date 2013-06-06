@@ -12,13 +12,7 @@
         "branch": "jellybean-mr1"
     },
     {
-        "project": "wizard0f0s",
-        "repository": "android_device_samsung_t0ltecdma",
-        "target_path": "device/samsung/t0ltecdma",
-        "branch": "jellybean-mr1"
-    },
-    {
-        "project": "wizard0f0s",
+        "project": "ChameleonOS",
         "repository": "android_device_samsung_t0lte",
         "target_path": "device/samsung/t0lte",
         "branch": "jellybean-mr1"
@@ -42,13 +36,20 @@
         "branch": "jellybean-mr1"
     },
     {
-        "project": "wizard0f0s",
+        "project": "ChameleonOS",
+        "repository": "android_vendor_samsung_t0lte",
+        "target_path": "vendor/samsung/t0lte",
+        "branch": "jellybean-mr1"
+    },
+
+    {
+        "project": "ChameleonOS",
         "repository": "android_vendor_samsung_t0ltecdma",
         "target_path": "vendor/samsung/t0ltecdma",
         "branch": "jellybean-mr1"
     },
     {
-        "project": "wizard0f0s",
+        "project": "ChameleonOS",
         "repository": "android_vendor_samsung_smdk4412-common",
         "target_path": "vendor/samsung/smdk4412-common",
         "branch": "jellybean-mr1"
